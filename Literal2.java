@@ -1,6 +1,6 @@
 public class Literal2 {
     public static void main(String[] args) {
-        // Day 2 - Literals
+   
         long l = 100000L;
         float f = 5.5f;
         char c1 = 'A';

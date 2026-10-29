@@ -1,4 +1,4 @@
-public class Main {
+public class Literal4{
     public static void main(String[] args) {
         System.out.println("Addition of three numbers.");
         

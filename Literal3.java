@@ -1,5 +1,5 @@
 public class Literal3{
-     public static void main(String [] ARGS){
+     public static void main(String [] args){
       System.out.println("Long literals");
           int a=100;
           long b=10000000000L;

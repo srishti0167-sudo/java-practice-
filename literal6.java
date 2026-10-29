@@ -8,7 +8,7 @@ public class Day2_Literals {
         float f1 = 5.6f;
         double d1 = 4.13;
         boolean a = true;
-        String str = "Harry";
+        String str = "srishti";
 
         System.out.println(age);
         System.out.println(age2);
